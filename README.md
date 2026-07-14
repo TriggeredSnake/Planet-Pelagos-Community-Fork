@@ -1,8 +1,8 @@
-This is a fork of Pelagos v0.55.1, the last version released under the GPLv3 license rather than CC BY-NC-ND 4.0. This fork exists primarily to bypass lua scripts inserted by Talandar to prevent the game from loading if [any] (https://mods.factorio.com/mod/TS_Pelagos_CSRR) of [these] (https://mods.factorio.com/mod/space-age-many-planets-server-mod-compat) [mods] (https://mods.factorio.com/mod/pelagos-autobarreling) are loaded. It also exists to provide an archive of Pelagos in it's final open-source state, given the author's penchant for deleting old versions of their mods when they realize people are using them to bypass their arbitrary restrictions.
+This is a fork of Pelagos v0.55.1, the last version released under the GPLv3 license rather than CC BY-NC-ND 4.0. This fork exists primarily to bypass lua scripts inserted by Talandar to prevent the game from loading if [any](https://mods.factorio.com/mod/TS_Pelagos_CSRR) of [these](https://mods.factorio.com/mod/space-age-many-planets-server-mod-compat) [mods](https://mods.factorio.com/mod/pelagos-autobarreling) are loaded. It also exists to provide an archive of Pelagos in it's final open-source state, given the author's penchant for deleting old versions of their mods when they realize people are using them to bypass their arbitrary restrictions.
 
-My goal is to make this fork into a community-focused alternative, implementing feautures requested by the community that Talandar has no interest in implementing, as a result community contributions on [the GitHub repository] (https://github.com/TriggeredSnake/Planet-Pelagos-Community-Fork) are welcomed. Plus, feel free to report bugs, and make suggestions in the discussion tab.
+My goal is to make this fork into a community-focused alternative, implementing feautures requested by the community that Talandar has no interest in implementing, as a result community contributions on [the GitHub repository](https://github.com/TriggeredSnake/Planet-Pelagos-Community-Fork) are welcomed. Plus, feel free to report bugs, and make suggestions in the discussion tab.
 
-As of the date of upload, compatible versions of all the mod's dependencies are still available on the mod portal. However, going by Talandar's track record, I expect this mod to be blacklisted by their mods in the next update. As they frequently delete old versions of their mods, especially when they allow people to bypass arbitrary restrictions, [I've uploaded an archive of dependencies and recommended side mods that are known to be compatible with this fork.] (https://www.mediafire.com/file/dpyhcnzidthiluj/Pelagos_Fork_0.55.1_Working_Dependencies.rar/file)
+As of the date of upload, compatible versions of all the mod's dependencies are still available on the mod portal. However, going by Talandar's track record, I expect this mod to be blacklisted by their mods in the next update. As they frequently delete old versions of their mods, especially when they allow people to bypass arbitrary restrictions, [I've uploaded an archive of dependencies and recommended side mods that are known to be compatible with this fork.](https://www.mediafire.com/file/dpyhcnzidthiluj/Pelagos_Fork_0.55.1_Working_Dependencies.rar/file)
 
 # Planet Pelagos
 ![welcome_on_pelagos](https://raw.githubusercontent.com/TriggeredSnake/Planet-Pelagos-Community-Fork/refs/heads/main/Mod%20Page%20Images/welcome_on_pelagos.png)
@@ -14,7 +14,7 @@ to improve smelting processes in your factory.
 [Cargo Ships mod](https://mods.factorio.com/mod/cargo-ships)
 - Essential dependency
 - Pelagos is designed to give this mod more of a place, as it rarely fits in with vanilla Nauvis terrain generation.
-- By default, Cargo Ships are unlocked on Pelagos, and sealant is required to craft them. Use my [Cargo Ship Recipe Restorer] (https://mods.factorio.com/mod/TS_Pelagos_CSRR) mod to set them back to default.
+- By default, Cargo Ships are unlocked on Pelagos, and sealant is required to craft them. Use my [Cargo Ship Recipe Restorer](https://mods.factorio.com/mod/TS_Pelagos_CSRR) mod to set them back to default.
 
 ## Canal Excavator mod
 [Canal Excavator mod](https://mods.factorio.com/mod/canal-excavator)
@@ -43,8 +43,8 @@ to improve smelting processes in your factory.
 ## Barrelling Machines
 - Specify the liquid you intend to barrel, and provide the resources.
 - Barrels of liquid are used to fuel diesel cargo ships, and most other burners.
-- Use [this mod] (https://mods.factorio.com/mod/pelagos-autobarreling) to make barrelling machines process whatever fluid is inputted like a furnace, rather than setting recipes manually.
-- (You must use Barrelling Machines v0.1.2 from the [dependencies archive] (https://www.mediafire.com/file/dpyhcnzidthiluj/Pelagos_Fork_0.55.1_Working_Dependencies.rar/file) rather than the latest v0.1.5 and v0.1.6 if you want to use this mod.)
+- Use [this mod](https://mods.factorio.com/mod/pelagos-autobarreling) to make barrelling machines process whatever fluid is inputted like a furnace, rather than setting recipes manually.
+- (You must use Barrelling Machines v0.1.2 from the [dependencies archive](https://www.mediafire.com/file/dpyhcnzidthiluj/Pelagos_Fork_0.55.1_Working_Dependencies.rar/file) rather than the latest v0.1.5 and v0.1.6 if you want to use this mod.)
 
 ## Giving new life to vanilla mechanics
 ![fishing_inserter](https://raw.githubusercontent.com/TriggeredSnake/Planet-Pelagos-Community-Fork/refs/heads/main/Mod%20Page%20Images/fishing_inserter.png)
@@ -131,8 +131,8 @@ Fish are a good starting source of nutrients on Pelagos. They are also essential
 
 ## Credits and thanks
 - Thanks to the existence of [Cargo Ships mod](https://mods.factorio.com/mod/cargo-ships) and [Canal Excavator mod](https://mods.factorio.com/mod/canal-excavator) creating this mod was made possible
-- Thank you to [uniquename9000] (https://mods.factorio.com/user/uniquename9000) for creating the music and sounds!
-- Thank you to [Talandar99] (https://mods.factorio.com/user/Talandar99) for making the original Pelagos mod, even if their anti-consumer practices caused the creation of this fork.
+- Thank you to [uniquename9000](https://mods.factorio.com/user/uniquename9000) for creating the music and sounds!
+- Thank you to [Talandar99](https://mods.factorio.com/user/Talandar99) for making the original Pelagos mod, even if their anti-consumer practices caused the creation of this fork.
 Plus, thank you to:
 - Powerscooter for extensive testing and tons of feedback
 - AnthonyDPS for Spanish translation
