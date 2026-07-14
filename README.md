@@ -38,7 +38,12 @@ to improve smelting processes in your factory.
 - Allows off-grid automation but requires constant fuel supply.
 - Doesn't produce electromagnetic waves, unlike electric machines.
 
+##Deep Sea & Wooden Platforms
 ![pelagos-deep-sea](https://raw.githubusercontent.com/TriggeredSnake/Planet-Pelagos-Community-Fork/refs/heads/main/Mod%20Page%20Images/pelagos-deep-sea.png)
+- The deep sea of Pelagos is a place where you can’t place landfill.
+- The good thing is that you can use something other than foundations.
+- Wooden platforms are modular surfaces that allow you to place selected machines and infrastructure on water.
+- You can use them to expand your factory into deep seas, lakes, rivers, or oceans, while keeping placement restricted to lightweight, stable structures.
 
 ## Barrelling Machines
 - Specify the liquid you intend to barrel, and provide the resources.
